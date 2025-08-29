@@ -36,7 +36,7 @@ export default function ImportChatPage() {
         <h1 className="font-semibold">WhatsApp Chat Viewer</h1>
         <button
           onClick={() => signOut()}
-          className="px-3 py-1 bg-red-500 rounded-lg"
+          className="px-3 py-1 bg-red-400 rounded-lg"
         >
           Logout
         </button>
